@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" fill="none">
+  <rect width="900" height="1125" fill="#EAE5DC"/>
+  <rect x="32" y="32" width="836" height="1061" stroke="#141311" stroke-opacity="0.15"/>
+  <line x1="32" y1="110" x2="868" y2="110" stroke="#141311" stroke-opacity="0.12"/>
+  <text x="64" y="78" fill="#5C5852" font-family="monospace" font-size="13" letter-spacing="2">PORTRAIT / REEL FRAME • 4:5</text>
+  <text x="836" y="78" text-anchor="end" fill="#5C5852" font-family="monospace" font-size="13" letter-spacing="2">DIVYANSHU RATHORE</text>
+
+  <!-- Minimalist Architectural Editorial Composition -->
+  <circle cx="450" cy="490" r="210" stroke="#141311" stroke-opacity="0.14" stroke-width="1.5"/>
+  <line x1="200" y1="490" x2="700" y2="490" stroke="#141311" stroke-opacity="0.1"/>
+  <line x1="450" y1="240" x2="450" y2="740" stroke="#141311" stroke-opacity="0.1"/>
+  <text x="450" y="482" text-anchor="middle" fill="#141311" font-family="Georgia, serif" font-style="italic" font-size="36">Portrait / Hero Video</text>
+  <text x="450" y="520" text-anchor="middle" fill="#6E6A63" font-family="monospace" font-size="13" letter-spacing="1.5">DROP YOUR PHOTO OR MP4 IN /public/images/</text>
+
+  <line x1="32" y1="920" x2="868" y2="920" stroke="#141311" stroke-opacity="0.12"/>
+  <text x="64" y="975" fill="#141311" font-family="sans-serif" font-size="28" font-weight="700" letter-spacing="-0.5">Strength. Endurance. Storytelling.</text>
+  <text x="64" y="1015" fill="#5C5852" font-family="Georgia, serif" font-style="italic" font-size="22">Running, HYROX, Strength Training &amp; Brand Integrations</text>
+</svg>

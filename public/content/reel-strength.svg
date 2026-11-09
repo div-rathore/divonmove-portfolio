@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" fill="none">
+  <rect width="720" height="1280" fill="#181715"/>
+  <rect x="36" y="36" width="648" height="1208" stroke="#F7F5F0" stroke-opacity="0.15"/>
+  <text x="72" y="96" fill="#A39E93" font-family="monospace" font-size="15" letter-spacing="2.5">STRENGTH TRAINING</text>
+  <text x="72" y="1040" fill="#F7F5F0" font-family="sans-serif" font-weight="700" font-size="38">Strength For the Road</text>
+  <text x="72" y="1088" fill="#A39E93" font-family="Georgia, serif" font-style="italic" font-size="26">Compound Lifts &amp; Structural Resilience</text>
+</svg>
